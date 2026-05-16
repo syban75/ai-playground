@@ -1,2 +1,45 @@
+# 💼 AI Playground 
 
-* 반세윤의 AI 관련연구 놀이터
+반세윤의 AI 관련 연구 놀이터
+
+## 🤖 ML
+* Machine Learning
+
+## 🧠 DL
+* Deep Learning
+
+## 🚀 AI Service & Agentic AI
+* 💬 AI Service : ChatGPT, Claude, Gemini 등 다양한 AI 서비스
+* 🤝 Agentic AI : 기존 프로그램의 로직 일부를 AI 서비스 기반 에이전트로 구성
+
+## 🧪 Experiments
+* AI 실험 코드
+* Jupyter Notebook
+* PoC (Proof of Concept)
+
+## 📊 Data & Analysis
+* 데이터 분석
+* Feature Engineering
+* 시각화
+
+## ⚙️ Tools
+* Python
+* LangChain
+* Vector DB
+* OpenAI API
+
+
+
+# 💼 AI Playground 
+
+ 반세윤의 AI 관련연구 놀이터
+
+## 🤖 ML
+* Machine Learning
+
+## 💻 DL
+* Deep Learning
+
+## AI Service & Agentic AI
+* AI Service : ChatGPT, Claude, Gemini 등등
+* Agentic AI = 기존 프로그램에서 로직 부분으로 AI Service를 사용 
