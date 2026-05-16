@@ -28,18 +28,3 @@
 * Vector DB
 * OpenAI API
 
-
-
-# 💼 AI Playground 
-
- 반세윤의 AI 관련연구 놀이터
-
-## 🤖 ML
-* Machine Learning
-
-## 💻 DL
-* Deep Learning
-
-## AI Service & Agentic AI
-* AI Service : ChatGPT, Claude, Gemini 등등
-* Agentic AI = 기존 프로그램에서 로직 부분으로 AI Service를 사용 
