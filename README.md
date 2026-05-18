@@ -20,7 +20,7 @@
 * 💬 AI Service : ChatGPT, Claude, Gemini 등 다양한 AI 서비스
 * 🤝 AI Agent : 기존 프로그램의 로직 일부를 AI 서비스 기반 에이전트로 구성
 
-👉 자세히 보기: - [에에전틱AI](./AIAgent)
+👉 자세히 보기: - [AI에이전트](./AIAgent)
 
 ## 🧪 Experiments
 * AI 실험 코드
