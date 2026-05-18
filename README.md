@@ -2,7 +2,8 @@
 
 반세윤의 AI 관련 연구 놀이터
 
-## 
+## 교육자료
+### 📄 PDF [Download](./인공지능_기초_가이드.pdf). 
 
 ## 🤖 ML
 * Machine Learning
@@ -14,11 +15,11 @@
 
 👉 자세히 보기: - [딥러닝](./DL)
 
-## 🚀 AI Service & Agentic AI
+## 🚀 AI Service & AI Agent
 * 💬 AI Service : ChatGPT, Claude, Gemini 등 다양한 AI 서비스
-* 🤝 Agentic AI : 기존 프로그램의 로직 일부를 AI 서비스 기반 에이전트로 구성
+* 🤝 AI Agent : 기존 프로그램의 로직 일부를 AI 서비스 기반 에이전트로 구성
 
-👉 자세히 보기: - [에에전틱AI](./AgenticAI)
+👉 자세히 보기: - [에에전틱AI](./AIAgent)
 
 ## 🧪 Experiments
 * AI 실험 코드
@@ -35,7 +36,7 @@
 
 ## ⚙️ Tools
 * Python
-* LangChain
+* LangGraph
 * Vector DB
 * OpenAI API
 
