@@ -3,7 +3,7 @@
 반세윤의 AI 관련 연구 놀이터
 
 ## 교육자료
-### 📄 [자료보기](https://syban75.github.io/pdf/인공지능_기초_가이드.pdf.pdf)
+### 📄 [자료보기](https://syban75.github.io/인공지능_기초_가이드.pdf.pdf)
 
 
 ## 🤖 ML
