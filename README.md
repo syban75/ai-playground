@@ -22,18 +22,27 @@
 
 👉 자세히 보기: - [AI에이전트](./AIAgent)
 
-## 🧪 Experiments
-* AI 실험 코드
-* Jupyter Notebook
-* PoC (Proof of Concept)
-
 ## 📐 AI Linear Algebra
 * Matrix, Vector, Eigenvalue
+
+## ☁️ Infra
+* Public Cloud
+* Kubernetes
+* Docker
+* MLops
+* DevOps
+
 
 ## 📊 Data & Analysis
 * 데이터 분석
 * Feature Engineering
 * 시각화
+
+* ## 🧪 Experiments
+* AI 실험 코드
+* Jupyter Notebook
+* PoC (Proof of Concept)
+
 
 ## ⚙️ Tools
 * Python
